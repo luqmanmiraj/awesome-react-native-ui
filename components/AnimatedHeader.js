@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-const HEADER_HEIGHT = 200;
+const HEADER_HEIGHT = 180;
 
 const AnimatedHeader = ({ animatedValue }) => {
   const insets = useSafeAreaInsets();
