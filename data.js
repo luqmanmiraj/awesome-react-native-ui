@@ -40,7 +40,7 @@ const DATA = [
     title: 'The Shadow of the Wind'
   },
   {
-    id: 11,
+    id: 19,
     title: 'The Fault in Our Stars'
   },
   {
@@ -49,7 +49,7 @@ const DATA = [
   },
   {
     id: 13,
-    title: 'The Giving Tree'
+    title: 'The Giving Tree is good'
   },
   {
     id: 14,
