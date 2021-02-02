@@ -57,7 +57,7 @@ const DATA = [
   },
   {
     id: 15,
-    title: 'The Da Vinci Code'
+    title: 'The Vinci Code '
   },
   {
     id: 16,
