@@ -53,7 +53,7 @@ const DATA = [
   },
   {
     id: 14,
-    title: 'Wuthering Heights'
+    title: 'Wutering Heights'
   },
   {
     id: 15,
