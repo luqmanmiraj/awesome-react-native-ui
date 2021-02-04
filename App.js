@@ -29,7 +29,7 @@ export default function App() {
         >
           {DATA.map(item => (
             <View key={item.id} style={{ marginBottom: 15 }}>
-              <Text style={{ color: '#101010', fontSize: 30 }}>
+              <Text style={{ color: '#101010', fontSize: 40 }}>
                 {item.title}
               </Text>
             </View>
