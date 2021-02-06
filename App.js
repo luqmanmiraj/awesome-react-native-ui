@@ -18,7 +18,7 @@ export default function App() {
           contentContainerStyle={{
             alignItems: 'center',
             paddingTop: 220,
-            paddingHorizontal: 20
+            paddingHorizontal: 18
           }}
           showsVerticalScrollIndicator={false}
           scrollEventThrottle={16}
